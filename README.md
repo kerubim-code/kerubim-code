@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="banner.gif" alt="Banner" width="100%">
+  <img src="bannerapex.mp4" alt="Banner" width="100%">
 </p>
