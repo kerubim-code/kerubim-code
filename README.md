@@ -1,1 +1,1 @@
-<img src"banner.mov"
+<img src"banner.gif"
